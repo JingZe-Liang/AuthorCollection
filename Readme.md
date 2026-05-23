@@ -1,7 +1,5 @@
 # 作者收集 · Author Collection
 
-简洁、适合放到 GitHub README 的排版，增加图形符号以提升可读性。
-
 ---
 
 ## 🎯 马赛克全色锐化
