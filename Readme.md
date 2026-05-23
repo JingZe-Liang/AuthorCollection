@@ -20,3 +20,6 @@
 
 ---
 
+## 🛰️ 遥感（Remote Sensing）
+- **遥感大模型 / Awesome List**：
+  - Awesome-Remote-Sensing-Agents：<https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents.git>
