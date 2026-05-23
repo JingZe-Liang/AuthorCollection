@@ -21,5 +21,13 @@
 ---
 
 ## 🛰️ 遥感（Remote Sensing）
-- **遥感大模型 / Awesome 列表**
-    - [Awesome Remote Sensing Agents](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents) · GitHub 仓库
+- 资源集合：
+    - Awesome Remote Sensing Agents · [GitHub 仓库](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents)
+
+---
+
+## 🛠️ 图像处理，退化，降噪，加噪
+- 纪辉 · [Google Scholar](https://scholar.google.com/citations?user=AsKY0XoAAAAJ&hl=en)
+    - 代表作品：noise2noise · [GitHub](https://github.com/NVlabs/noise2noise)
+
+---
