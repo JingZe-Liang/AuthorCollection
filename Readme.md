@@ -2,9 +2,11 @@
 
 ---
 
-## 🎯 马赛克全色锐化
-- 汪楠（湖南大学） · [Google Scholar](https://scholar.google.com/citations?user=xfLlbe8AAAAJ&hl=zh-CN)
-
+## 🎯 遥感
+- 汪楠 （湖南大学） [Google Scholar](https://scholar.google.com/citations?user=xfLlbe8AAAAJ&hl=zh-CN)
+  刘元晔（湖南大学）[主页](https://github.com/YuanyeLiu)
+  宋启亚 (湖南大学) [主页](https://qiyasong.github.io/)
+  
 ---
 
 ## 🖼️ 图像融合
